@@ -1,0 +1,13 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    text-align: center;
+}
+
+header img {
+    width: 60px;   /* reduced size */
+    height: 25;
+}
+h1 {
+    font-size: 80px;   /* makes the heading bigger */
+}
